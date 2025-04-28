@@ -4,6 +4,7 @@
 
 - <b>Full Stack Web App (Django, AWS, and DevOps)</b>
   - [DevOps Project](https://github.com/T-B-Oh/django_cityloc_pkg_Bncamp22) <b><i>(Example)</b></i>
+  [WebApp](/assets/img/project_one.jpg)
   
 - <b>Python</b>
   - [BlackJack Game](https://github.com/T-B-Oh/blackjack_Game)
