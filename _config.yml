@@ -3,4 +3,6 @@ title: Tin Bo
 description: This is my portfolio
 #show_download:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-seo-tag
 google_analytics: G-H58BSWDMR3
