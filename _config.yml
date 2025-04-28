@@ -1,6 +1,8 @@
 title: Tin Bo
-email: tn.bobo@gmail.com
+author:
+  email: tn.bobo@gmail.com
 #logo: 
 #description:
 #show_download:
 theme: jekyll-theme-minimal
+repository: T-B-Oh/blackjack_Game
