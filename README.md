@@ -18,9 +18,9 @@
  
 <h2>🎓 Education:</h2>
 
-- Master of Science in Computer Science (Part-Time)  
+- Master of Science in Computer Science (Full-Time)  
 University of Sunderland, UK  
-_Expected Graduation: March 2027_
+_Expected Graduation: May 2026_
 
 - Bachelor of Science in Mechanical Engineering  
 University of Huddersfield, UK  
