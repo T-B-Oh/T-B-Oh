@@ -17,6 +17,9 @@
 - <b>Python</b>
   - [BlackJack Game](https://github.com/T-B-Oh/blackjack_Game)
  
+- <b>Machine Learning Project</b>
+  - [CNN Experiments on CIFAR-10](https://github.com/T-B-Oh/Machine-Learning-Project)
+ 
 <h2>🎓 Education:</h2>
 
 - Master of Science in Computer Science (Full-Time)  
