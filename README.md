@@ -5,7 +5,8 @@
 - <b>Cloud Computing: AWS (Certified Cloud Practitioner, Developer, Solutions Architect), Azure, GCP</b>
 - <b>Programming Languages: Python, Java, SQL (PostgreSQL)</b>
 - <b>Frameworks & Tools: Flask, Django, Pandas, NumPy, Docker, CI/CD Pipelines</b>
-- <b>Platforms: Visual Studio Code, PyCharm</b>
+- <b> Machine Learning & Data Science: Model development, training & evaluation (TensorFlow, Keras, Scikit-learn, data preprocessing, visualisation)</b>
+- <b>Platforms & IDEs: Visual Studio Code, PyCharm</b>
 
 <h2>👨‍💻 Projects:</h2>
 
