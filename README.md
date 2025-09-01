@@ -10,13 +10,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Full Stack Web App (Django, AWS, and DevOps)</b>
-  - [DevOps Project](https://github.com/T-B-Oh/django_cityloc_pkg_Bncamp22) <b><i>(Example)</b></i>
-  [WebApp](/assets/img/project_one.jpg)
+- <b>Full Stack Web App (Django, PostgreSQL, Docker)</b>
+  - [Full Stack Project](https://github.com/T-B-Oh/django-mot-and-services)
   
-- <b>Python</b>
-  - [BlackJack Game](https://github.com/T-B-Oh/blackjack_Game)
- 
 - <b>Machine Learning Project</b>
   - [CNN Experiments on CIFAR-10](https://github.com/T-B-Oh/Machine-Learning-Project)
  
