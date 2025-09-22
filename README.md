@@ -4,9 +4,9 @@
 
 - <b>Cloud Computing: AWS (Certified Cloud Practitioner, Developer, Solutions Architect), Azure, GCP</b>
 - <b>Programming Languages: Python, Java, SQL (PostgreSQL)</b>
-- <b>Frameworks & Tools: Flask, Django, Pandas, NumPy, Docker, CI/CD Pipelines</b>
+- <b>Frameworks & Tools: Flask, Django, Pandas, NumPy</b>
 - <b> Machine Learning & Data Science: Model development, training & evaluation (TensorFlow, Keras, Scikit-learn, data preprocessing, visualisation)</b>
-- <b>Platforms & IDEs: Visual Studio Code, PyCharm</b>
+- <b>DevOps & Cloud Tools: Docker, CI/CD, Kubernetes, Git, Linux</b>
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -18,7 +18,7 @@
  
 <h2>🎓 Education:</h2>
 
-- Master of Science in Computer Science (Full-Time)  
+- Master of Science in Computer Science (Online Msc)  
 University of Sunderland, UK  
 _Expected Graduation: May 2026_
 
