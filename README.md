@@ -1,80 +1,97 @@
-<h1>Hi, I'm Tin Bo! <br/>
-Cloud & DevOps Engineer | Full-Stack Developer | AWS Certified</h1>
+<h1 align="center">👨‍💻 Hi, I'm Tin Bo</h1>
 
-<h2>🛠️ Technical Skills</h2>
+Aspiring Cloud & DevOps Engineer with a focus on software development, cloud technologies, and data-driven applications. I enjoy building practical systems using Python, AWS, Docker, APIs, and modern web technologies.
 
-<ul>
-<li><b>Cloud & Infrastructure:</b> AWS (Solutions Architect Associate, Developer Associate, Cloud Practitioner), Azure, Google Cloud Platform (GCP)</li>
-<li><b>DevOps & Tools:</b> Docker, Kubernetes, CI/CD (GitHub Actions), Git, Linux</li>
-<li><b>Programming:</b> Python, JavaScript, SQL (PostgreSQL), R (basic)</li>
-<li><b>Frameworks & Libraries:</b> React, FastAPI, Flask, Django, Pandas, NumPy, scikit-learn, TensorFlow, Keras</li>
-<li><b>Data Processing & NLP:</b> Scrapy, spaCy (NLP)</li>
-<li><b>Networking:</b> TCP/IP fundamentals, subnetting, Cisco Packet Tracer (simulation)</li>
-</ul>
+# 🛠️ Core Skills
 
-<h2>👨‍💻 Projects</h2>
+- Python, JavaScript, SQL (PostgreSQL)
+- AWS, Docker, Linux
+- React, FastAPI, Django, Flask
+- TensorFlow, Keras, scikit-learn
+- Scrapy, spaCy (NLP)
+- Git, GitHub, CI/CD concepts
 
-<ul>
-<li>
-<b>Full-Stack Web Application (Django, PostgreSQL, Docker)</b><br/>
-• Developed a full-stack vehicle service and MOT booking application using Django, PostgreSQL, HTML, CSS, and JavaScript<br/>
-• Implemented backend business logic, user authentication, and role-based access for customers and employees using Django<br/>
-• Built database-driven booking, vehicle lookup, and scheduling features with PostgreSQL integration<br/>
-• Containerised the application using Docker and Docker Compose for consistent local development and deployment<br/>
-🔗 <a href="https://github.com/T-B-Oh/django-mot-and-services">View Project</a>
-</li>
+# 🚀 Featured Projects
 
-<br/>
+## 🍽️ Recipe Allergen Filtering System
 
-<li>
-<b>Machine Learning – Image Classification (CIFAR-10)</b><br/>
-• Built and evaluated multiple CNN models for CIFAR-10 image classification using TensorFlow/Keras<br/>
-• Compared baseline, Batch Normalization + Dropout, deeper CNN, and data-augmented CNN architectures<br/>
-• Applied hyperparameter tuning with Keras Tuner Hyperband to improve validation and test performance<br/>
-• Deployed the best-performing trained model in a Flask web app and packaged it with Docker for portable use<br/>
+Full-stack recipe platform for allergen-aware recipe search using NLP and web scraping.
+
+**Demo**
+
+![Recipe Allergen Filtering System demo](assets/recipe-allergen-demo.gif)
+
+**Key Features**
+
+- Allergen-aware recipe search
+- Background recipe scraping from multiple recipe websites
+- NLP-based ingredient classification
+- Authentication and saved recipes
+- Cloud deployment using AWS and Docker
+
+**Tech Stack**
+
+React | FastAPI | PostgreSQL | Docker | AWS | Scrapy | spaCy
+
+🔗 <a href="https://github.com/T-B-Oh/WebScraping_Project">View Project</a>
+
+## 🧠 CIFAR-10 Image Classification
+
+Deep learning project comparing CNN architectures for image classification.
+
+**Demo**
+
+![CIFAR-10 Image Classification screenshot](assets/cifar10-screenshot.gif)
+
+**Key Features**
+
+- CNN image classification using TensorFlow and Keras
+- Performance improvements using Batch Normalisation, Dropout, and data augmentation
+- Hyperparameter tuning using Keras Tuner Hyperband
+- Flask deployment packaged with Docker
+
+**Tech Stack**
+
+Python | TensorFlow | Keras | Flask | Docker
+
 🔗 <a href="https://github.com/T-B-Oh/Machine-Learning-Project">View Project</a>
-</li>
 
-<br/>
+## 🚗 Vehicle Service & MOT Booking System
 
-<li>
-<b>Dissertation Project – Recipe Allergen Filtering System</b><br/>
-• Built a full-stack recipe platform for allergen-aware search using React, FastAPI, and PostgreSQL<br/>
-• Developed Scrapy pipelines to collect and process recipe data from multiple recipe websites<br/>
-• Applied spaCy-based and rule-based NLP to detect allergens and classify recipes<br/>
-• Created backend APIs for search, authentication, saved recipes, and recent searches<br/>
-• Implemented background scraping and database-driven retrieval to improve search coverage<br/>
-</li>
-</ul>
+Full-stack booking application for managing vehicle services and MOT bookings.
 
-<h2>🎓 Education</h2>
+**Demo**
 
-<ul>
-<li>
-<b>MSc Computer Science</b> — Expected 2026<br/>
-University of Sunderland, UK<br/>
-• Dissertation completed
-</li>
+![Vehicle Service and MOT Booking System screenshot](assets/vehicle-booking-screenshot.png)
 
-<br/>
+**Key Features**
 
-<li>
-<b>BSc Mechanical Engineering</b> — 2:1 (2016)<br/>
-University of Huddersfield, UK
-</li>
-</ul>
+- Booking and scheduling workflows
+- Customer and employee dashboards
+- Authentication and role-based access
+- PostgreSQL database integration
 
-<h2>📜 Certifications</h2>
+**Tech Stack**
 
-<ul>
-<li>AWS Certified Solutions Architect – Associate (2024)</li>
-<li>AWS Certified Developer – Associate (2024)</li>
-<li>AWS Certified Cloud Practitioner (2024)</li>
-<li>Backend, SQL and DevOps with Python Bootcamp (2025)</li>
-</ul>
+Django | PostgreSQL | JavaScript | HTML/CSS
 
-<h2>🤝 Connect with me</h2>
+🔗 <a href="https://github.com/T-B-Oh/django-mot-and-services">View Project</a>
 
-<ul>
+# 📚 Currently Learning
+
+- Infrastructure as Code with Terraform
+- ML/AI model deployment concepts
+- Cloud deployment and container orchestration concepts
+- Improving backend architecture and system design skills
+
+# 🎓 Education & Certifications
+
+- MSc Computer Science - University of Sunderland (Expected 2026)
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Developer - Associate
+- AWS Certified Cloud Practitioner
+
+# 📫 Connect With Me
+
 <li>LinkedIn: <a href="https://www.linkedin.com/in/tin-bo-6416a4319/">tin-bo-6416a4319</a></li>
-</ul>
+
